@@ -68,10 +68,10 @@ body {
   color: var(--header-link-color);
 }
 
-.header_nav__list .header_nav__list:first-child .header_nav__link {
+.header_nav__list .header_nav__item:first-child .header_nav__link {
   margin-left: 0;
 }
 
-.header_nav__list .header_nav__list:last-child .header_nav__link {
+.header_nav__list .header_nav__item:last-child .header_nav__link {
   margin-right: 0;
 }
